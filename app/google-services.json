@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503761158009",
+    "project_id": "emam-40eea",
+    "storage_bucket": "emam-40eea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503761158009:android:95a994d2cde483b8a8f9a8",
+        "android_client_info": {
+          "package_name": "com.example.emam2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAN-dLrkn7gh_XFouKklPurK0D_t6EdUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
