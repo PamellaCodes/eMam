@@ -220,7 +220,7 @@ fun ChatInputBar(
                 value = value,
                 onValueChange = onValueChange,
                 modifier = Modifier.weight(1f),
-                placeholder = { Text("cnth: Budget mingguan saya Rp…", fontSize = 14.sp, color = Color.Gray) },
+                placeholder = { Text("contoh: Budget mingguan saya Rp…", fontSize = 14.sp, color = Color.Gray) },
                 shape = RoundedCornerShape(32.dp),
                 keyboardOptions = KeyboardOptions(imeAction = ImeAction.Send),
                 keyboardActions = KeyboardActions(onSend = { onSend() }),
