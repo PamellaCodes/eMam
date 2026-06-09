@@ -211,7 +211,7 @@ fun StepPersonalInfo(
         OutlinedTextField(
             value = email,
             onValueChange = onEmailChange,
-            label = { Text("Email (opsional)") },
+            label = { Text("Email") },
             leadingIcon = { Icon(Icons.Filled.Email, null, tint = Color(0xFF8B1A1A)) },
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Email),
             modifier = Modifier.fillMaxWidth(),
